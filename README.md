@@ -12,7 +12,8 @@ Files live in `img/` and are served over HTTPS via GitHub Pages:
 |---|---|---|
 | `laganlataf_logo.gif` | 300x101, 48 frames | option 1 (logo beside details), original signature |
 | `laganlataf_logo_400.gif` | 400x135, 48 frames | option 2 (logo above details) |
-| `ic_mobile.png` | 56x56, shown at 20x20 | phone rows |
+| `ic_mobile.png` | 56x56, shown at 20x20 | mobile rows (Leon, Liron) |
+| `ic_retro.png` | 56x56, shown at 20x20 | store landline row |
 | `ic_mail.png` | 56x56, shown at 20x20 | email row |
 | `ic_web.png` | 56x56, shown at 20x20 | website row |
 | `ic_pin.png` | 56x56, shown at 20x20 | address row (option 2 only) |
